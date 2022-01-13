@@ -3,7 +3,7 @@
 #include "MainFrm.h"
 #using <System.dll>
 #using <System.Core.dll>
-#using <C:\\MyTestApps\\Syngistix\\bin\\Debug\\ROIFunctionsLibrary.dll>
+#using <..\\Syngistix\\bin\\Debug\\ROIFunctionsLibrary.dll>
 using namespace System;
 using namespace System::Collections::Generic;
 using namespace ROIfunctionsLibrary;
